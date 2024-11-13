@@ -1,5 +1,5 @@
 # Hi, I'm Hadiseh! 👋
-🚀 I'm a junior Frontend developer looking for my dream team.<br><br>📖 So far, I have worked primarily with these technologies: JavaScript, React.<br><br>💁‍♀️ Let's connect on LinkedIn 
+🚀 I'm a junior Frontend developer looking for my dream team.<br><br>📖 So far, I have worked primarily with these technologies: JavaScript, React.<br><br>💁‍♀️ Let's connect on LinkedIn [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hadiseh-rashidi)
 
 
 ## 🌐 Socials:
