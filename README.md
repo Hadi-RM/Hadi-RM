@@ -3,6 +3,8 @@
 
 
 
+stars.gif
+
 
 
 # 🔧 Skills and Experience
