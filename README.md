@@ -3,8 +3,7 @@
 
 
 
-[[stars.gif
-](https://github.com/carolstran/carolstran/blob/main/stars.gif)](https://www.linkedin.com/in/hadiseh-rashidi/)
+
 
 
 # 🔧 Skills and Experience
