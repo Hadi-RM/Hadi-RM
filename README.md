@@ -5,7 +5,7 @@
 
 
 <div style="text-align: center;">
-    <img src="https://github.com/carolstran/carolstran/raw/main/stars.gif" style="max-width: 100%; display: inline-block; margin: 20px auto;">
+    <img src="https://github.com/carolstran/carolstran/raw/main/stars.gif" style="max-width: 100%; display: inline-block;">
 </div>
 
 <br><br>
