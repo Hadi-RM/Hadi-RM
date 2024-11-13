@@ -1,10 +1,10 @@
 # Hi, I'm Hadiseh! 👋
 🚀 I'm a junior Frontend developer looking for my dream team.<br><br>📖 So far, I have worked primarily with these technologies: JavaScript, React.<br><br>💁‍♀️ Let's connect on <a href="https://www.linkedin.com/in/hadiseh-rashidi/" rel="nofollow">LinkedIn.</a>
 
-<br><br>
+<br>
 
 
-<img src="https://github.com/carolstran/carolstran/raw/main/stars.gif" style="max-width: 100%; display: inline-block; text-align: center" data-target="animated-image.originalImage">
+<img src="https://github.com/carolstran/carolstran/raw/main/stars.gif" style="max-width: 100%; display: inline-block; margin: 20px auto" data-target="animated-image.originalImage">
 
 <br><br>
 
