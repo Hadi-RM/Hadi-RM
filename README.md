@@ -3,7 +3,7 @@
 
 
 
-<img src="https://github.com/carolstran/carolstran/raw/main/stars.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://github.com/carolstran/carolstran/raw/main/stars.gif" style="max-width: 100%; display: inline-block; text-align: center" data-target="animated-image.originalImage">
 
 
 # 🔧 Skills and Experience
