@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm a creative frontend developer looking for my next dream team.<br><br>📖 So far, I have worked primarily with these technologies: JavaScript, React.<br><br>💁‍♀️ Let's connect on LinkedIn.
+🚀 I'm a creative frontend developer looking for my next dream team.<br><br>📖 So far, I have worked primarily with these technologies: JavaScript, React.<br><br>💁‍♀️ Let's connect on LinkedIn [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hadiseh-rashidi/) .
 
 
 ## 🌐 Socials:
