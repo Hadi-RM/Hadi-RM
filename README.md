@@ -3,8 +3,8 @@
 
 
 
-stars.gif
-
+[stars.gif
+](https://github.com/carolstran/carolstran/blob/main/stars.gif)
 
 
 # 🔧 Skills and Experience
